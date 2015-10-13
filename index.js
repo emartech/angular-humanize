@@ -1,7 +1,7 @@
 'use strict';
 
-const MODULE_NAME = 'humanize';
-const humanize = require('humanize-num');
+var MODULE_NAME = 'humanize';
+var humanize = require('humanize-num');
 
 module.exports = function(angular) {
   angular
