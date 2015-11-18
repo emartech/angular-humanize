@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Valetudox/angular-humanize#readme",
   "dependencies": {
-    "humanize-num": "1.0.1"
+    "humanize-num": "1.0.3"
   }
 }
